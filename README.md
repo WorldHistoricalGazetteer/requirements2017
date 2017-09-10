@@ -11,7 +11,7 @@ The project will build a Linked Open Data historical gazetteer of named and type
 * building **_a web interface_** to search, browse, and visualize the entire dataset
 * developing **_an application programming interface (API)_** to enable machine access to, and downloading of, the entire dataset
 
-To help us ensure these project products are useful and usable, please add your requirements and desired functionality for any aspect of this system as Issues in this Repo. 
+To help us ensure these project products are useful and usable, please add your requirements and desired functionality for any aspect of this system as Issues in this Repo. **NOTE: You must have a GitHub account to do this**.
 
 1. On the Issues tab, click the "New Issue" button
 1. Use the content of your "I want to" phrase as the title
