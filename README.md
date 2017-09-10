@@ -1,8 +1,10 @@
 ## World-Historical Gazetteer User Stories
 
-This repository is a gathering place for user stories (requirements, wishes, etc.) for the World-Historical Gazetteer project, in the form:
+This repository is a gathering place for user stories (requirements, wishes, etc.) for the [World-Historical Gazetteer project]("http://whgazetteer.org"), in the form:
 
 #### **As a { <span style="color:red">user type/role</span> } I want to {<span style="color:red">...</span>} in order to {<span style="color:red">...</span>}**
+
+For example, "As a **user**, I want to {**search a geographic area (i.e. space rather than place)**} in order to {**find sources relating to places in this area**}"
 
 The project will build a Linked Open Data historical gazetteer of named and typed cultural and physical geographic places, by 
 
@@ -21,3 +23,5 @@ To help us ensure these project products are useful and usable, please add your 
 
 You can use the first issue/story as an example. It's fine to make "user type/role" simply "**user**" but if you want to be more precise, feel free. 
 
+-------
+[World-Historical Gazetteer]("http://whgazetteer.org") is a project of the [World History Center]("http://www.worldhistory.pitt.edu/") at University of Pittsburgh, and has received generous support from the [National Endowment for the Humanities]("http://www.neh.gov") (NEH). 
