@@ -2,7 +2,7 @@
 
 This repository is a gathering place for user stories (requirements, wishes, etc.) for the World-Historical Gazetteer project, in the form:
 
-####**As a { <span style="color:red">user type/role</span> } I want to {<span style="color:red">...</span>} in order to {<span style="color:red">...</span>}**
+#### **As a { <span style="color:red">user type/role</span> } I want to {<span style="color:red">...</span>} in order to {<span style="color:red">...</span>}**
 
 The project will build a Linked Open Data historical gazetteer of named and typed cultural and physical geographic places, by 
 
