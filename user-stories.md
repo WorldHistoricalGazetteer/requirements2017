@@ -6,13 +6,6 @@ This repository is a gathering place for user stories (requirements, wishes, etc
 
 For example, "As a **user**, I want to {**search a geographic area (i.e. space rather than place)**} so that {**I can find sources relating to places in this area**}"
 
-The project will build a Linked Open Data historical gazetteer of named and typed cultural and physical geographic places, by
-
-* creating **_a global "spinal" gazetteer_** of some 30,000 significant named places
-* linking that spine with contributed specialist gazetteer data in a **_union index_**
-* building **_a web interface_** to search, browse, and visualize the entire dataset
-* developing **_an application programming interface (API)_** to enable machine access to, and downloading of, the entire dataset
-
 To help us ensure these project products are useful and usable, please add your requirements and desired functionality for any aspect of this system as Issues in this Repo. **NOTE: You must have a GitHub account to do this**.
 
 1. On the Issues tab, click the "New Issue" button
