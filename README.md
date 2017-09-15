@@ -4,7 +4,7 @@ This repository is a gathering place for user stories (requirements, wishes, etc
 
 #### **As a { <span style="color:red">user type/role</span> } I want to {<span style="color:red">some goal</span>} so that {<span style="color:red">some reason</span>}**
 
-For example, "As a **user**, I want to {**search a geographic area (i.e. space rather than place)**} in order to {**find sources relating to places in this area**}"
+For example, "As a **user**, I want to {**search a geographic area (i.e. space rather than place)**} so that {**I can find sources relating to places in this area**}"
 
 The project will build a Linked Open Data historical gazetteer of named and typed cultural and physical geographic places, by
 
@@ -16,7 +16,7 @@ The project will build a Linked Open Data historical gazetteer of named and type
 To help us ensure these project products are useful and usable, please add your requirements and desired functionality for any aspect of this system as Issues in this Repo. **NOTE: You must have a GitHub account to do this**.
 
 1. On the Issues tab, click the "New Issue" button
-1. Use the content of your "I want to" phrase as the title
+1. Use the content of your "I want to" goal phrase as the title
 1. Enter your entire User Story sentence in the "write/leave a comment" box
 1. From the panel on the right, add a "user story" label to the issue
 1. Click "Submit new issue"
