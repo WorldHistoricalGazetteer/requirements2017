@@ -1,4 +1,4 @@
-World-Historical Gazetteer is a [University of Pittsburgh World History Center]("www.worldhistory.pitt.edu/") project supported by the [National Endowment for the Humanities]("http://www.neh.gov"). The project has a three-year term, ending in May 2020.
+World-Historical Gazetteer is a [University of Pittsburgh World History Center]("www.worldhistory.pitt.edu/") project supported by the [National Endowment for the Humanities]("www.neh.gov"). The project has a three-year term, ending in May 2020.
 
 We are building build a Linked Open Data historical gazetteer of named and typed cultural and physical geographic places, by
 
@@ -7,7 +7,7 @@ We are building build a Linked Open Data historical gazetteer of named and typed
 * building **_a web interface_** to search, browse, visualize, and download contents of that index
 * developing **_an application programming interface (API)_** to enable machine access to the entire dataset
 
-###Project Staff
+### Project Staff
 [Ruth Mostern]("http://www.history.pitt.edu/people/ruth-mostern") (_Principal Investigator_; Director, World History Center)
 
 [Karl Grossner]("http://kgeographer.org") (_Technical Director_)
@@ -18,7 +18,7 @@ We are building build a Linked Open Data historical gazetteer of named and typed
 
 David Ruvolo (_Project Manager_)
 
-###Advisory Committee
+### Advisory Committee
 Anderson, Cliff (Vanderbilt University)
 
 Batchelor, Robert (Georgia Southern University)
