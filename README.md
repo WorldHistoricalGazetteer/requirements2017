@@ -8,13 +8,13 @@ We are building build a Linked Open Data historical gazetteer of named and typed
 * developing **_an application programming interface (API)_** to enable machine access to the entire dataset
 
 ### Project Staff
-[Ruth Mostern]("http://www.history.pitt.edu/people/ruth-mostern") (_Principal Investigator_; Director, World History Center)
+[Ruth Mostern]("www.history.pitt.edu/people/ruth-mostern") (_Principal Investigator_; Director, World History Center)
 
-[Karl Grossner]("http://kgeographer.org") (_Technical Director_)
+[Karl Grossner]("kgeographer.org") (_Technical Director_)
 
-[Ryan Horne]("https://rmhorne.org/") (_Postdoctoral Fellow_, World History Center)
+[Ryan Horne]("rmhorne.org/") (_Postdoctoral Fellow_, World History Center)
 
-[Patrick Manning]("http://www.manning.pitt.edu/") (_Project Consultant_)
+[Patrick Manning]("www.manning.pitt.edu/") (_Project Consultant_)
 
 David Ruvolo (_Project Manager_)
 
