@@ -1,6 +1,6 @@
 ## World-Historical Gazetteer User Stories
 
-The [Issues section of this repository](issues) is a gathering place for user stories (requirements, wishes, etc.) for this project, in the form:
+The [Issues section of this repository](https://github.com/WorldHistoricalGazetteer/whg-webapp/issues) is a gathering place for user stories (requirements, wishes, etc.) for this project, in the form:
 
 #### **As a { <span style="color:red">user type/role</span> } I want to {<span style="color:red">some goal</span>} so that {<span style="color:red">some reason</span>}**
 
